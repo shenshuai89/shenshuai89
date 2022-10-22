@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java、mysql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+![我的个人信息](/assets/unqiue.jpeg);
 
 ### Hi there 👋
 
